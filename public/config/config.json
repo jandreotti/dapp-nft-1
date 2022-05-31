@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE619f7Fd36cb98f76005E9AAbE0d2357e1fbe4a2",
+  "SCAN_LINK": "https://polygonscan.com/token/0xe619f7fd36cb98f76005e9aabe0d2357e1fbe4a2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NFTBroders1",
+  "SYMBOL": "BRNFT1",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nftbroders1",
+  "SHOW_BACKGROUND": false
+}
